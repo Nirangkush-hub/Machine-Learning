@@ -1,0 +1,6 @@
+This is a simple file for demonstrating file handelling.
+Through file handlling we can play with different kind 
+of flies and edit,read,modify those 
+as our liking.
+And python makes it incredibly user friendly.
+added a new line
